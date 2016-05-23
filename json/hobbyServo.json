@@ -52,6 +52,18 @@
     "actuator": "true",
     "scriptFile": "servo.groovy"
   },
+  "Testservo": {
+    "outputShaftDiameter": "4.4",
+    "shaftToShortSideDistance": "6.8",
+    "bottomOfFlangeToTopOfBody": "9.4",
+    "flangeLongDimention": "32",
+    "tipOfShaftToBottomOfFlange": "13.9",
+    "servoThickDimentionThickness": "22.8",
+    "flangeThickness": "2",
+    "servoShaftSideHeight": "31.5",
+    "shaftToShortSideFlandgeEdge": "10.8",
+    "servoThinDimentionThickness": "11.8"
+  },
   "towerProMG91": {
     "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "6.8",
